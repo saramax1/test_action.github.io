@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/saramax1/test_action.github.io/issues"
   },
-  "homepage": "https://github.com/saramax1/test_action.github.io#readme"
+  "homepage": "https://github.com/saramax1/test_action.github.io#readme",
+  "publishConfig": {
+    "@saramax1:registry": "https://npm.pkg.github.com"
+  }
 }
